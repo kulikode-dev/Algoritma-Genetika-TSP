@@ -26,13 +26,12 @@ Aplikasi ini dapat dilakukan instalasi baik pada local server maupun online serv
 3. `$ composer install`
 4. `$ cp .env.example .env`
 5. `$ php artisan key:generate`
-6. Create new MySQL database for this application  
+6. Buat Databaase MySQL baru dengan nama misalnya genetika_laravel, lalu dump database dari file SQL pada folder aplikasi "genetika_laravel.sql"
 (with simple command: `$ mysqladmin -urootuser -p create genetika_laravel`)
-or dump from existing database (genetika_laravel.sql)
 7. Set database credentials on `.env` file
 8. `$ php artisan migrate`
 9. `$ php artisan serve`
-10. Login account. email `admin@admin.com` password `admin123`
+10. Login dengan alamat email `admin@admin.com` dan password `admin123`
 
 ## Kolaborasi
 Jika kamu ingin mengembangkan aplikasi ini lebih lanjut dengan kolaborasi, silakan menghubungi kami melalui [issues](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/issues)
