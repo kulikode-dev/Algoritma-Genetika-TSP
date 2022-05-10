@@ -39,7 +39,7 @@ Jika kamu ingin mengembangkan aplikasi ini lebih lanjut dengan kolaborasi, silak
 
 ## Screenshots
 #### Tampilan Login
-![Tampilan Login](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/blob/main/images/1.%20Login.png)
+![Tampilan Login](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/blob/main/images/1.%20Login%20Page.png)
 
 #### Tampilan Dashboard
 ![Tampilan Dashboard](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/blob/main/images/2.%20Dashboard.png)
