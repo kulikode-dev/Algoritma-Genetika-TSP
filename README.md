@@ -16,7 +16,7 @@ Untuk mencapai tujuan aplikasi ini, maka beberapa poin yang harus dipenuhi antar
 Aplikasi ini dapat dilakukan instalasi baik pada local server maupun online server dengan minimal spesifikasi sebagai berikut:
 
 #### Kebutuhan Server
-1. PHP >=7.3 (and meet [Laravel 9.x server requirements](https://laravel.com/docs/9.x/deployment#server-requirements)),
+1. PHP >=8.0 (and meet [Laravel 9.x server requirements](https://laravel.com/docs/9.x/deployment#server-requirements)),
 2. MySQL or MariaDB database,
 
 #### Langkah Instalasi
@@ -57,6 +57,9 @@ Jika kamu ingin mengembangkan aplikasi ini lebih lanjut dengan kolaborasi, silak
 
 #### Perhitungan Algorimat Genetika - Result
 ![Perhitungan Algorimat Genetika - Result](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/blob/main/images/7.%20Perhitungan%20AG%20Result.png)
+
+## Download Source Code
+Source Code dapat diunduh dengan kontribusi melalui tautan berikut ini: [Download Source Code](https://wawrow.github.io/bootstrap-button-designer/)
 
 ## License
 
