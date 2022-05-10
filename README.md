@@ -62,6 +62,15 @@ Jika kamu ingin mengembangkan aplikasi ini lebih lanjut dengan kolaborasi, silak
 ## Download Source Code
 Source Code dapat diunduh dengan kontribusi melalui tautan berikut ini: [Download Source Code](https://produk.mayar.link/catalog/algoritma-genetika-traveling-salesman-problem-tsp-dengan-php-laravel-framework)
 
-## License
+## Credits
+- PHP Laravel Framework versi 9
+- Tampilan UI dibuat dengan template [SB Admin 2](https://startbootstrap.com/theme/sb-admin-2)
 
-Algoritma Genetika Traveling Salesman Problem (TSP) dengan PHP Laravel Framework is a free and open-sourced software under [MIT License](LICENSE).
+## Terms & Conditions
+- Aplikasi dibuat dan telah dilakukan pengujian berhasil dijalankan. Apabila terdapat fitur-fitur yang perlu ditambahkan silakan untuk dikembangkan sesuai dengan kebutuhan. 
+- Segala tindakan yang dilakukan oleh pengguna atas aplikasi ini, menjadi tanggungjawab dan resiko masing-masing pengguna. Kami tidak bertanggung jawab atas segala kerugian dan/ atau kerusakan sehubungan dengan penggunaan aplikasi ini. 
+- Harap tetap mencantumkan credits atas tampilan template UI sesuai dengan ketentuan license yang berlaku.
+
+## License
+- Algoritma Genetika Traveling Salesman Problem (TSP) dengan PHP Laravel Framework is a free and open-sourced software under [MIT License](https://opensource.org/licenses/MIT).
+- The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
