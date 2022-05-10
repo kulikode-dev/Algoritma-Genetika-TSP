@@ -63,4 +63,4 @@ Source Code dapat diunduh dengan kontribusi melalui tautan berikut ini: [Downloa
 
 ## License
 
-Algoritma Genetika Multiple Traveling Salesman Problem (TSP) dengan PHP Laravel Framework is a free and open-sourced software under [MIT License](LICENSE).
+Algoritma Genetika Traveling Salesman Problem (TSP) dengan PHP Laravel Framework is a free and open-sourced software under [MIT License](LICENSE).
