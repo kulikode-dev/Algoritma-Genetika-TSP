@@ -1,8 +1,8 @@
 # Algoritma-Genetika-TSP
-Algoritma Genetika Multiple Traveling Salesman Problem (TSP) dengan PHP Laravel Framework
+Algoritma Genetika Traveling Salesman Problem (TSP) dengan PHP Laravel Framework
 
 ## Tujuan
-Penerapan Algoritma Genetika (AG) untuk Multiple Traveling Salesman Problem (TSP)
+Penerapan Algoritma Genetika (AG) untuk Traveling Salesman Problem (TSP)
 
 ## Konsep
 Untuk mencapai tujuan aplikasi ini, maka beberapa poin yang harus dipenuhi antara lain:
