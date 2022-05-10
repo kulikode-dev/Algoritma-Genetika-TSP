@@ -33,9 +33,6 @@ Aplikasi ini dapat dilakukan instalasi baik pada local server maupun online serv
 9. `$ php artisan serve`
 10. Login dengan alamat email `admin@admin.com` dan password `admin123`
 
-## Kolaborasi
-Jika kamu ingin mengembangkan aplikasi ini lebih lanjut dengan kolaborasi, silakan menghubungi kami melalui [issues](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/issues)
-
 ## Screenshots
 #### Tampilan Login
 ![Tampilan Login](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/blob/main/images/1.%20Login%20Page.png)
@@ -60,6 +57,9 @@ Jika kamu ingin mengembangkan aplikasi ini lebih lanjut dengan kolaborasi, silak
 
 ## Download Source Code
 Source Code dapat diunduh dengan kontribusi melalui tautan berikut ini: [Download Source Code](https://produk.mayar.link/catalog/algoritma-genetika-traveling-salesman-problem-tsp-dengan-php-laravel-framework)
+
+## Pertanyaan dan Jawaban
+Kritik dan saran dapat disampaikan melalui [issues](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/issues)
 
 ## Credits
 - PHP Laravel Framework versi 9
