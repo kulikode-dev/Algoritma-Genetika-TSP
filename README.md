@@ -38,25 +38,25 @@ Jika kamu ingin mengembangkan aplikasi ini lebih lanjut dengan kolaborasi, silak
 
 ## Screenshots
 #### Tampilan Login
-![Tampilan Login](images/1. Login.png)
+![Tampilan Login](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/images/1. Login.png)
 
 #### Tampilan Dashboard
-![Tampilan Dashboard](images/2. Dashboard.png)
+![Tampilan Dashboard](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/images/2. Dashboard.png)
 
 #### Input Lokasi
-![Input Lokasi](images/3. Input Lokasi Index.png)
+![Input Lokasi](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/images/3. Input Lokasi Index.png)
 
 #### Input Lokasi Tambah
-![Input Lokasi Tambah](images/4. Input Lokasi Tambah.png)
+![Input Lokasi Tambah](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/images/4. Input Lokasi Tambah.png)
 
 #### Input Parameter
-![Input Parameter](images/5. Input Parameter.png)
+![Input Parameter](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/images/5. Input Parameter.png)
 
 #### Perhitungan Algorimat Genetika
-![Perhitungan Algorimat Genetika](images/6. Perhitungan AG.png)
+![Perhitungan Algorimat Genetika](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/images/6. Perhitungan AG.png)
 
 #### Perhitungan Algorimat Genetika - Result
-![Perhitungan Algorimat Genetika - Result](images/7. Perhitungan AG Result.png)
+![Perhitungan Algorimat Genetika - Result](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/images/7. Perhitungan AG Result.png)
 
 ## License
 
