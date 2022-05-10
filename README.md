@@ -35,7 +35,7 @@ or dump from existing database
 10. Login account. email `admin@admin.com` password `admin123`
 
 ## Kolaborasi
-Jika kamu ingin mengembangkan aplikasi ini lebih lanjut dengan kolaborasi, silakan menghubungi kami.
+Jika kamu ingin mengembangkan aplikasi ini lebih lanjut dengan kolaborasi, silakan menghubungi kami melalui [issues](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/issues)
 
 ## Screenshots
 #### Tampilan Login
@@ -64,7 +64,7 @@ Source Code dapat diunduh dengan kontribusi melalui tautan berikut ini: [Downloa
 
 ## Credits
 - PHP Laravel Framework versi 9
-- Tampilan UI dibuat dengan template [SB Admin 2](https://startbootstrap.com/theme/sb-admin-2)
+- Tampilan UI dibuat dengan template [SB Admin 2 Free Version](https://startbootstrap.com/theme/sb-admin-2)
 
 ## Terms & Conditions
 - Aplikasi dibuat dan telah dilakukan pengujian berhasil dijalankan. Apabila terdapat fitur-fitur yang perlu ditambahkan silakan untuk dikembangkan sesuai dengan kebutuhan. 
