@@ -53,8 +53,8 @@ Jika kamu ingin mengembangkan aplikasi ini lebih lanjut dengan kolaborasi, silak
 #### Input Parameter
 ![Input Parameter](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/blob/main/images/5.%20Input%20Parameter.png)
 
-#### Perhitungan Algorimat Genetika
-![Perhitungan Algorimat Genetika](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/blob/main/images/6.%20Perhitungan%20G.png)
+#### Perhitungan Algoritma Genetika
+![Perhitungan Algoritma Genetika](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/blob/main/images/6.%20Perhitungan%20AG.png)
 
 #### Perhitungan Algorimat Genetika - Result
 ![Perhitungan Algorimat Genetika - Result](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/blob/main/images/7.%20Perhitungan%20AG%20Result.png)
