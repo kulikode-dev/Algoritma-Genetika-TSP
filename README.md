@@ -28,7 +28,7 @@ Aplikasi ini dapat dilakukan instalasi baik pada local server maupun online serv
 5. `$ php artisan key:generate`
 6. Create new MySQL database for this application  
 (with simple command: `$ mysqladmin -urootuser -p create genetika_laravel`)
-or dump from existing database
+or dump from existing database (genetika_laravel.sql)
 7. Set database credentials on `.env` file
 8. `$ php artisan migrate`
 9. `$ php artisan serve`
