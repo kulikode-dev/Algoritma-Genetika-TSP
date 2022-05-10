@@ -21,17 +21,18 @@ Aplikasi ini dapat dilakukan instalasi baik pada local server maupun online serv
 
 #### Langkah Instalasi
 
-1. Clone the repo : `alamat git akan dikirim melalui chat`
+1. Clone the repo / download source code
 2. `$ cd algo_laravel`
 3. `$ composer install`
 4. `$ cp .env.example .env`
 5. `$ php artisan key:generate`
 6. Create new MySQL database for this application  
 (with simple command: `$ mysqladmin -urootuser -p create genetika_laravel`)
+or dump from existing database
 7. Set database credentials on `.env` file
 8. `$ php artisan migrate`
 9. `$ php artisan serve`
-10. Login account.
+10. Login account. email `admin@admin.com` password `admin123`
 
 ## Kolaborasi
 Jika kamu ingin mengembangkan aplikasi ini lebih lanjut dengan kolaborasi, silakan menghubungi kami.
