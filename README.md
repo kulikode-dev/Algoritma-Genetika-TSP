@@ -12,6 +12,8 @@ Untuk mencapai tujuan aplikasi ini, maka beberapa poin yang harus dipenuhi antar
 - Pengguna dapat menambahkan parameter dasar perhitungan Algoritma Genetika.
 - Sistem dapat melakukan perhitungan Algorimat Genetika dengan parameter masukan dari User.
 
+## Referensi
+- [Jurnal dan Materi Algoritma Genetika](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/tree/main/ebooks)
 ## Memulai Aplikasi
 Aplikasi ini dapat dilakukan instalasi baik pada local server maupun online server dengan minimal spesifikasi sebagai berikut:
 
