@@ -14,6 +14,7 @@ Untuk mencapai tujuan aplikasi ini, maka beberapa poin yang harus dipenuhi antar
 
 ## Referensi
 - [Jurnal dan Materi Algoritma Genetika](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/tree/main/referensi)
+- [A to Z Algoritma Genetika](https://kulikode.gitbook.io/algoritma-genetika)
 ## Memulai Aplikasi
 Aplikasi ini dapat dilakukan instalasi baik pada local server maupun online server dengan minimal spesifikasi sebagai berikut:
 
