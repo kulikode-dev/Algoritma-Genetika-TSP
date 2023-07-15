@@ -1,4 +1,4 @@
-# Algoritma-Genetika-TSP
+# Algoritma-Genetika-TSP (Updated 15 Juli 2023)
 Algoritma Genetika Traveling Salesman Problem (TSP) dengan PHP Laravel Framework
 
 ## Tujuan
@@ -57,6 +57,15 @@ Aplikasi ini dapat dilakukan instalasi baik pada local server maupun online serv
 
 #### Perhitungan Algorimat Genetika - Result
 ![Perhitungan Algorimat Genetika - Result](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/blob/main/images/7.%20Perhitungan%20AG%20Result.png)
+
+## Update 17 Juli 2023
+- Penambahan upload gambar dan deskripsi lokasi
+- Penambahan halaman user untuk pencairan rute terpendek menampilkan gambar dan deskripsi lokasi yang telah diinput
+- Fixing bug pada pengaturan variable
+
+## Screenshots Update 17 Juli 2023
+#### Tampilan User Konsultasi Rute Terpendek Traveling
+![Tampilan Login](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/blob/main/images/1.%20Login%20Page.png)
 
 ## Download Source Code
 Source Code dapat diunduh dengan kontribusi melalui tautan berikut ini: [Download Source Code](https://produk.mayar.link/catalog/algoritma-genetika-traveling-salesman-problem-tsp-dengan-php-laravel-framework)
