@@ -65,7 +65,15 @@ Aplikasi ini dapat dilakukan instalasi baik pada local server maupun online serv
 
 ## Screenshots Update 17 Juli 2023
 #### Tampilan User Konsultasi Rute Terpendek Traveling
-![Tampilan Login](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/blob/main/images/1.%20Login%20Page.png)
+![Tampilan User Konsultasi Rute Terpendek Traveling](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/blob/main/images/8.%20Menu%20User%20Dashboard.png)
+#### Tampilan Tambah Gambar dan Deskripsi
+![Tampilan Tambah Gambar dan Deskripsi](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/blob/main/images/9.%20Add%20image%20upload%20and%20description.png)
+#### Tampilan Pilih Lokasi Awal
+![Tampilan Pilih Lokasi Awal](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/blob/main/images/10.%20Pilih%20lokasi%20awal.png)
+#### Tampilan Pilih Lokasi Tujuan (Multiple Select)
+![Tampilan Pilih Lokasi Tujuan (Multiple Select)](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/blob/main/images/11.%20Pilih%20lokasi%20tujuan%20(multiple).png)
+#### Tampilan Hasil Pencairan Rute Tercepat
+![Tampilan Hasil Pencairan Rute Tercepat](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/blob/main/images/12.%20Hasil%20pencarian%20rute%20tercepat.png)
 
 ## Download Source Code
 Source Code dapat diunduh dengan kontribusi melalui tautan berikut ini: [Download Source Code](https://produk.mayar.link/catalog/algoritma-genetika-traveling-salesman-problem-tsp-dengan-php-laravel-framework)
