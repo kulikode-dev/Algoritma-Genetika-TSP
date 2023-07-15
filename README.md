@@ -58,7 +58,7 @@ Aplikasi ini dapat dilakukan instalasi baik pada local server maupun online serv
 #### Perhitungan Algorimat Genetika - Result
 ![Perhitungan Algorimat Genetika - Result](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/blob/main/images/7.%20Perhitungan%20AG%20Result.png)
 
-## Update 17 Juli 2023
+## Update 15 Juli 2023
 - Penambahan upload gambar dan deskripsi lokasi
 - Penambahan halaman user untuk pencairan rute terpendek menampilkan gambar dan deskripsi lokasi yang telah diinput
 - Fixing bug pada pengaturan variable
