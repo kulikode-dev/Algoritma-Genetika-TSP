@@ -1,4 +1,4 @@
-# Algoritma-Genetika-TSP (Updated 15 July 2023)
+# Algoritma-Genetika-TSP
 Algoritma Genetika Traveling Salesman Problem (TSP) dengan PHP Laravel Framework
 
 ## Tujuan
